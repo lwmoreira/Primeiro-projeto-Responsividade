@@ -1,0 +1,172 @@
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.link-header {
+
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    text-align: center;
+    letter-spacing: 0.875px;
+}
+
+.button-header {
+
+    width: 124px;
+    height: 51px;
+    border-radius: 30px;
+    border: 1px solid #4CB538;
+    background: #6FBF44;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: 0 3px 4px #04060c;
+
+}
+
+.img-logo {
+
+    margin-left: 121px;
+    margin-top: 163px;
+    display: inline-block;
+    width: 533.834px;
+    height: 466.9px;
+
+
+} 
+
+section {
+
+    display: inline-block;
+    margin-left: 84px;
+    width: 493px;
+   
+
+}
+
+h1 {
+
+    color: #161A49;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.596px;
+   
+   
+}
+
+p {
+
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 33px;
+    color: #4B505A;
+    letter-spacing: 0.5px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    
+
+
+}
+
+.button-learn{
+    
+   color: #6FBF44;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .link-header{
+
+        display: none;
+    }
+    
+    header{
+
+        margin: 0;
+        width: 100%;
+
+    }
+
+    .button-header{
+
+        width: 91px;
+        height: 31px;
+        margin: 17px 15px 0 284px;
+        position: relative;
+    }
+
+    h1{
+        font-size: 30px;
+        line-height: 30px; 
+        text-align: center;
+        margin: 83px 55px 0 55px;
+        display: block;
+        position: relative;
+    }
+
+    p{
+
+        font-size: 18px;
+        line-height: 33px; 
+        text-align: center;
+        display: block;
+        position: relative;
+        margin: 20px 43px 20px 43px;
+    }
+
+    .button-learn{
+
+        margin: auto;
+        display: block;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    .img-logo{
+
+        width: 340px;
+        height: auto;
+        position: absolute;
+        margin: 370px 40px 0 30px;      
+    }
+
+    section{
+
+        display: block;
+        margin: 0;
+        width: auto;
+    }
+    
+}
+
+
+
+
+
+
