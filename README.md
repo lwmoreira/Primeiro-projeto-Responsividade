@@ -6,4 +6,6 @@
 <br>
 <h3>Projeto para Desktopo:</h3>
 <img src="https://github.com/lwmoreira/location/blob/master/imagem_location_Desktop.png?raw=true"/>
+<br>
 <h3>Projeto para Smartphone:</h3>
+<img src="https://github.com/lwmoreira/location/blob/master/imagem_location_smartphone.png?raw=true"/>
